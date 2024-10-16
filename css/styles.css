@@ -106,24 +106,6 @@ body {
 }
 
 
-.container {
-    text-align: center;
-    padding: 50px;
-    background-color: transparent;
-}
-
-h1 {
-    font-size: 96px; /* Tamanho grande da fonte */
-    color: #D2B347;  /* Cor dourada ou amarela semelhante */
-    margin: 0;
-}
-
-p {
-    font-size: 24px; /* Tamanho menor para o subtítulo */
-    color: #D2B347;  /* Mesma cor do título */
-    margin: 0;
-}
-
 
 
 hr {
